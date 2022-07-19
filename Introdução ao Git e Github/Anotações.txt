@@ -1,0 +1,3 @@
+ git config –global user.email “email” -  para intificar o autor do commit de forma global 
+git config –global user.name nome - para identificar o autor do commit de forma global
+git init - inicia o repositório
